@@ -49,7 +49,7 @@ def read_acc22():
 					parent_account = parent[0].name
 				dd = frappe.get_doc({"doctype":"Account",
 						"account_name":(row[0].strip()),
-						 "is_group ":  0,
+						 "is_group ":  1,
 						 "account_serial" : 0,
 						 "root_type": root_type,
 						 "parent_account" : parent_account,
@@ -58,6 +58,7 @@ def read_acc22():
 				dd.flags.ignore_mandatory = True
 				dd.ignore_validate = True
 				dd.save(ignore_permissions = True)
-				frappe.db.sql(""" update  `tabAccount` set is_group ='{0}' where name = '{1}'""".format(1,dd.name))
+				print(dd.name)
+				frappe.db.sql(""" update  `tabAccount` set is_group ='1' where name = '{1}'""".format(1,dd.name))
 				frappe.db.commit()
 				
