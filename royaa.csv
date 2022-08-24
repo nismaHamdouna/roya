@@ -24,10 +24,10 @@ Lease Improvements ,Non-Current Assets,Asset
 Lease Improvements - Cost,Lease Improvements ,Asset
 Lease Improvements - Clearing,Lease Improvements ,Asset
 Lease Improvements - Accumulated Depreciation ,Lease Improvements ,Asset
-Equipment's,Non-Current Assets,Asset
-Equipment's - Cost,Equipment's,Asset
-Equipment's - Clearing,Equipment's,Asset
-Equipment's - Accumulated Depreciation ,Equipment's,Asset
+Equipments,Non-Current Assets,Asset
+Equipments - Cost,Equipments,Asset
+Equipments - Clearing,Equipments,Asset
+Equipments - Accumulated Depreciation ,Equipments,Asset
 Buildings,Non-Current Assets,Asset
 Buildings - Cost,Buildings,Asset
 Buildings - Clearing ,Buildings,Asset
@@ -43,9 +43,9 @@ Software & Applications - Accumulated Amortization,Software & Applications,Asset
 Right Of Use - Buildings,Non-Current Assets,Asset
 Right Of Use - Buildings - Costs,Right Of Use - Buildings,Asset
 Right Of Use - Buildings - Accumulated Depreciation ,Right Of Use - Buildings,Asset
-Right Of Use - Equipment's,Non-Current Assets,Asset
-Right Of Use - Equipment's-Costs,Right Of Use - Equipment's,Asset
-Right Of Use - Equipment's-Accumulated Depreciation ,Right Of Use - Equipment's,Asset
+Right Of Use - Equipments,Non-Current Assets,Asset
+Right Of Use - Equipments-Costs,Right Of Use - Equipments,Asset
+Right Of Use - Equipments-Accumulated Depreciation ,Right Of Use - Equipments,Asset
 Investments,Non-Current Assets,Asset
 Investments-***,Investments,Asset
 Current Assets,Assets,Asset
@@ -88,23 +88,23 @@ Bank2,Banks ,Asset
 Cash,Cash And Cash Equivalents,Asset
 Cash1,Cash,Asset
 Cash2,Cash,Asset
-Equity,,Owner's Equity
-Share Capital,Equity,Owner's Equity
-Share Capital-1,Share Capital,Owner's Equity
-Statutory Reserve,Equity,Owner's Equity
-Statutory Reserve1,Statutory Reserve,Owner's Equity
-Retained Earnings,Equity,Owner's Equity
-Retained Earnings - Forward,Retained Earnings,Owner's Equity
-Current Year P&L,Retained Earnings,Owner's Equity
-Dividends Paid,Retained Earnings,Owner's Equity
+Equity,,Owners Equity
+Share Capital,Equity,Owners Equity
+Share Capital-1,Share Capital,Owners Equity
+Statutory Reserve,Equity,Owners Equity
+Statutory Reserve1,Statutory Reserve,Owners Equity
+Retained Earnings,Equity,Owners Equity
+Retained Earnings - Forward,Retained Earnings,Owners Equity
+Current Year P&L,Retained Earnings,Owners Equity
+Dividends Paid,Retained Earnings,Owners Equity
 Labilities,,Liability
 Non - Current Labilities,Labilities,Liability
 Loans - Long Term,Non - Current Labilities,Liability
 Loans - Long Term - Name1,Loans - Long Term,Liability
 Loans - Long Term - Name2,Loans - Long Term,Liability
 Due To Share Holders,Non - Current Labilities,Liability
-Due To Share Holders' - Name1,Due To Share Holders,Liability
-Due To Share Holders' - Name2,Due To Share Holders,Liability
+Due To Share Holders - Name1,Due To Share Holders,Liability
+Due To Share Holders - Name2,Due To Share Holders,Liability
 Provisions For Employees End Of Service Benefits,Non - Current Labilities,Liability
 End Of Service Benefits,Provisions For Employees End Of Service Benefits,Liability
 Current Labilities,Labilities,Liability
@@ -165,7 +165,7 @@ Staff Costs-Operation - Factory Emp. Accommodation Exp.,Staff Costs Factory -Ope
 Staff Costs-Operation - Factory Emp. Trip Allowance,Staff Costs Factory -Operation,Expense
 Staff Costs-Operation - Factory Emp. Vacation Salary,Staff Costs Factory -Operation,Expense
 Staff Costs-Operation - Factory Emp. Vacation Ticket,Staff Costs Factory -Operation,Expense
-Staff Costs-Operation - Factory Emp. Position's Allowance,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp. Positions Allowance,Staff Costs Factory -Operation,Expense
 Staff Costs-Operation - Factory Emp. End Of Service,Staff Costs Factory -Operation,Expense
 Staff Costs-Operation - Factory Emp. GOSI Company Approach - Saudi 11.75%,Staff Costs Factory -Operation,Expense
 Staff Costs-Operation - Factory Emp. GOSI Company Approach - Non Saudi 2%,Staff Costs Factory -Operation,Expense
@@ -206,7 +206,7 @@ Rent Cost - Operation,Operation Costs,Expense
 Rent Cost - Operation - HW,Rent Cost - Operation,Expense
 Rent Cost - Operation - Equipment,Rent Cost - Operation,Expense
 Maintenance Costs - Operation,Operation Costs,Expense
-Maintenance Costs - Operation - Equipment's,Maintenance Costs – Operation,Expense
+Maintenance Costs - Operation - Equipments,Maintenance Costs – Operation,Expense
 Maintenance Costs - Operation - Facilities,Maintenance Costs - Operation,Expense
 Maintenance Costs - Operation - General,Maintenance Costs - Operation,Expense
 Items Less Than SAR 1000  Costs - Operation,Operation Costs,Expense
@@ -252,7 +252,7 @@ Staff Costs - SG&A - Factory Emp. - Accommodation Exp.,Staff Costs - SG&A - Fact
 Staff Costs - SG&A - Factory Emp. - Trip Allowance,Staff Costs - SG&A - Factory Emp.,Expense
 Staff Costs - SG&A - Factory Emp. - Vacation Salary ,Staff Costs - SG&A - Factory Emp.,Expense
 Staff Costs - SG&A - Factory Emp. - Vacation Ticket ,Staff Costs - SG&A - Factory Emp.,Expense
-Staff Costs - SG&A - Factory Emp. - Position's Allowance,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - Positions Allowance,Staff Costs - SG&A - Factory Emp.,Expense
 Staff Costs - SG&A - Factory Emp. - End Of Service ,Staff Costs - SG&A - Factory Emp.,Expense
 Staff Costs - SG&A - Factory Emp. - GOSI Company Approach - Saudi 11.75%,Staff Costs - SG&A - Factory Emp.,Expense
 Staff Costs - SG&A - Factory Emp. - GOSI Company Approach -Non Saudi 2%,Staff Costs - SG&A - Factory Emp.,Expense
@@ -276,7 +276,7 @@ Rent Cost - SG&A,Operation Costs,Expense
 Rent Cost - SG&A - Office,Rent Cost - SG&A,Expense
 Rent Cost - SG&A - Other Rents ,Rent Cost - SG&A,Expense
 Maintenance Costs - SG&A,Operation Costs,Expense
-Maintenance Costs - SG&A - Equipment's,Maintenance Costs - SG&A,Expense
+Maintenance Costs - SG&A - Equipments,Maintenance Costs - SG&A,Expense
 Maintenance Costs - SG&A - Facilities,Maintenance Costs - SG&A,Expense
 Maintenance Costs - SG&A - General,Maintenance Costs - SG&A,Expense
  Items Less Than Sar 1000  Costs - SG&A,Operation Costs,Expense
@@ -330,7 +330,7 @@ Utilities Exp.- SG&A - Water,Utilities Exp.- SG&A,Expense
 Utilities Exp.- SG&A - Electricity,Utilities Exp.- SG&A,Expense
 Marketing Exp.- SG&A,Operation Costs,Expense
 Marketing Exp.- SG&A - Advertising / Promotions ,Marketing Exp.- SG&A,Expense
-Marketing Exp.- SG&A - Seminars' /Sponsorships',Marketing Exp.- SG&A,Expense
+Marketing Exp.- SG&A - Seminars /Sponsorships,Marketing Exp.- SG&A,Expense
 Marketing Exp.- SG&A - Gifts/Souvenirs /Brochure,Marketing Exp.- SG&A,Expense
 Subscription & Licenses Exp. - SG&A,Operation Costs,Expense
 Subscription & Licenses Exp. - SG&A - CR,Subscription & Licenses Exp. - SG&A,Expense
