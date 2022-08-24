@@ -59,4 +59,5 @@ def read_acc22():
 				dd.ignore_validate = True
 				dd.save(ignore_permissions = True)
 				frappe.db.sql(""" update  `tabAccount` set is_group ='{0}' where name = '{1}'""".format(1,dd.name))
-			 	frappe.db.commit()
+				frappe.db.commit()
+				
