@@ -10,7 +10,7 @@ import frappe
 @frappe.whitelist(allow_guest=True)
 def read_acc22():
 	import csv
-	with open('/home/frappe/frappe-bench/apps/erpnext/erpnext/roya/royaa.csv', 'r') as csvfile:
+	with open('/home/slnee/bench/apps/erpnext/erpnext/roya/royaa.csv', 'r') as csvfile:
 		spamreader = csv.reader(csvfile)
 		index=0
 		for row in spamreader:
