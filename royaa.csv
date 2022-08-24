@@ -148,7 +148,7 @@ Revenues2 - Net,Revenues,Revenue
 Revenues - Name2,Revenues2 - Net,Revenue
 Returns - Name2,Revenues2 - Net,Revenue
 Discount Allowed - Name2,Revenues2 - Net,Revenue
-Expenses,,
+Expenses,,Expense
 Cost Of Goods Sold,Expenses,Expense
 Cost Of Goods Sold - Name1,Cost Of Goods Sold,Expense
 Cost Of Goods Sold - Name2,Cost Of Goods Sold,Expense
