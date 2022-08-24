@@ -1,0 +1,367 @@
+Assets,,Asset
+Non-Current Assets,Assets,Asset
+Buildings,Non-Current Assets,Asset
+Buildings - Cost,Buildings,Asset
+Buildings - Clearing ,Buildings,Asset
+Buildings - Accumulated Depreciation,Buildings,Asset
+Lands,Non-Current Assets,Asset
+Lands - Cost,Lands,Asset
+Lands - Clearing,Lands,Asset
+Lands - Accumulated Depreciation ,Lands,Asset
+Furniture And Fixture,Non-Current Assets,Asset
+Furniture And Fixture - Cost,Furniture And Fixture,Asset
+Furniture And Fixture - Clearing,Furniture And Fixture,Asset
+Furniture And Fixture - Accumulated Depreciation,Furniture And Fixture,Asset
+Computer,Non-Current Assets,Asset
+Computer - Cost,Computer,Asset
+Computer - Clearing,Computer,Asset
+Computer - Accumulated Depreciation ,Computer,Asset
+Vehicles,Non-Current Assets,Asset
+Vehicles - Cost,Vehicles,Asset
+Vehicles - Clearing,Vehicles,Asset
+Vehicles - Accumulated Depreciation ,Vehicles,Asset
+Lease Improvements ,Non-Current Assets,Asset
+Lease Improvements - Cost,Lease Improvements ,Asset
+Lease Improvements - Clearing,Lease Improvements ,Asset
+Lease Improvements - Accumulated Depreciation ,Lease Improvements ,Asset
+Equipment's,Non-Current Assets,Asset
+Equipment's - Cost,Equipment's,Asset
+Equipment's - Clearing,Equipment's,Asset
+Equipment's - Accumulated Depreciation ,Equipment's,Asset
+Buildings,Non-Current Assets,Asset
+Buildings - Cost,Buildings,Asset
+Buildings - Clearing ,Buildings,Asset
+Buildings - Accumulated Depreciation ,Buildings,Asset
+Lands,Non-Current Assets,Asset
+Lands - Cost,Lands,Asset
+Lands - Clearing,Lands,Asset
+Lands-Accumulated Depreciation ,Lands,Asset
+Software & Applications,Non-Current Assets,Asset
+Software & Applications - Cost,Software & Applications,Asset
+Software & Applications - Clearing,Software & Applications,Asset
+Software & Applications - Accumulated Amortization,Software & Applications,Asset
+Right Of Use - Buildings,Non-Current Assets,Asset
+Right Of Use - Buildings - Costs,Right Of Use - Buildings,Asset
+Right Of Use - Buildings - Accumulated Depreciation ,Right Of Use - Buildings,Asset
+Right Of Use - Equipment's,Non-Current Assets,Asset
+Right Of Use - Equipment's-Costs,Right Of Use - Equipment's,Asset
+Right Of Use - Equipment's-Accumulated Depreciation ,Right Of Use - Equipment's,Asset
+Investments,Non-Current Assets,Asset
+Investments-***,Investments,Asset
+Current Assets,Assets,Asset
+Inventory,Current Assets,Asset
+Inventory - Raw Material,Inventory,Asset
+Inventory - Ready Goods,Inventory,Asset
+Accrual Revenues,Current Assets,Asset
+Accrual Revenues - Name1,Accrual Revenues,Asset
+Accrual Revenues - Name2,Accrual Revenues,Asset
+Prepayments ,Current Assets,Asset
+Prepaid Rent,Prepayments ,Asset
+Prepaid Iqamas & Work Permit,Prepayments ,Asset
+Prepaid Visa ,Prepayments ,Asset
+Prepaid Medical Insurance,Prepayments ,Asset
+Prepaid General Insurance,Prepayments ,Asset
+Prepaid Government Licenses ,Prepayments ,Asset
+Prepaid Other Licenses ,Prepayments ,Asset
+Prepaid Services ,Prepayments ,Asset
+Prepaid SW Subscriptions ,Prepayments ,Asset
+Prepaid Other Subscriptions ,Prepayments ,Asset
+Prepaid Other Government Fee,Prepayments ,Asset
+Prepaid Others,Prepayments ,Asset
+Accounts Receivables-Other,Current Assets,Asset
+Security Deposits With Others,Accounts Receivables-Other,Asset
+Employees Receivables,Accounts Receivables-Other,Asset
+Work Advance,Accounts Receivables-Other,Asset
+Bank Guarantee,Accounts Receivables-Other,Asset
+VAT - Input,Accounts Receivables-Other,Asset
+VAT - Contra Receivables,Accounts Receivables-Other,Asset
+Due Form Related Parties,Current Assets,Asset
+Due Form Related Parties-Name1,Due Form Related Parties,Asset
+Due Form Related Parties-Name2,Due Form Related Parties,Asset
+Accounts Receivables-Trade-Net,Current Assets,Asset
+Accounts Receivables-Trade,Accounts Receivables-Trade-Net,Asset
+Provision For Decrease Trade Receivable,Accounts Receivables-Trade-Net,Asset
+Cash And Cash Equivalents,Current Assets,Asset
+Banks ,Cash And Cash Equivalents,Asset
+Bank1,Banks ,Asset
+Bank2,Banks ,Asset
+Cash,Cash And Cash Equivalents,Asset
+Cash1,Cash,Asset
+Cash2,Cash,Asset
+Equity,,Owner's Equity
+Share Capital,Equity,Owner's Equity
+Share Capital-1,Share Capital,Owner's Equity
+Statutory Reserve,Equity,Owner's Equity
+Statutory Reserve1,Statutory Reserve,Owner's Equity
+Retained Earnings,Equity,Owner's Equity
+Retained Earnings - Forward,Retained Earnings,Owner's Equity
+Current Year P&L,Retained Earnings,Owner's Equity
+Dividends Paid,Retained Earnings,Owner's Equity
+Labilities,,Liability
+Non - Current Labilities,Labilities,Liability
+Loans - Long Term,Non - Current Labilities,Liability
+Loans - Long Term - Name1,Loans - Long Term,Liability
+Loans - Long Term - Name2,Loans - Long Term,Liability
+Due To Share Holders,Non - Current Labilities,Liability
+Due To Share Holders' - Name1,Due To Share Holders,Liability
+Due To Share Holders' - Name2,Due To Share Holders,Liability
+Provisions For Employees End Of Service Benefits,Non - Current Labilities,Liability
+End Of Service Benefits,Provisions For Employees End Of Service Benefits,Liability
+Current Labilities,Labilities,Liability
+Lease Labilities,Current Labilities,Liability
+Lease Labilities - Name1,Lease Labilities,Liability
+Lease Labilities - Name2,Lease Labilities,Liability
+Due To Related Parties,Current Labilities,Liability
+Due To Related Parties - Name1,Due To Related Parties,Liability
+Due To Related Parties - Name2,Due To Related Parties,Liability
+Accruals,Current Labilities,Liability
+Accruals Rent,Accruals,Liability
+Accruals Iqamas & Work Permit,Accruals,Liability
+Accruals Visa ,Accruals,Liability
+Accruals Medical Insurance,Accruals,Liability
+Accruals General Insurance,Accruals,Liability
+Accruals Government Licenses ,Accruals,Liability
+Accruals Other Licenses ,Accruals,Liability
+Accruals Services ,Accruals,Liability
+Accruals SW Subscriptions ,Accruals,Liability
+Accruals Other Subscriptions ,Accruals,Liability
+Accruals Other Government Fee,Accruals,Liability
+Accruals Salary,Accruals,Liability
+Accruals Employees Vacation Salary,Accruals,Liability
+Accruals Employees Vacation Tickets,Accruals,Liability
+Accruals Employees Variable Bonus,Accruals,Liability
+Accruals Commissions,Accruals,Liability
+Accruals Utilities,Accruals,Liability
+Accruals Zakat ,Accruals,Liability
+Accounts Payables-Others,Current Labilities,Liability
+Deposits For Others,Accounts Payables-Others,Liability
+Employees Payables,Accounts Payables-Others,Liability
+VAT - Output,Accounts Payables-Others,Liability
+VAT - Contra Payables,Accounts Payables-Others,Liability
+Accounts Payables-Trade,Current Labilities,Liability
+Revenues,,Revenue
+Revenues1 - Net,Revenues,Revenue
+Revenues- Name1,Revenues1 - Net,Revenue
+Returns - Name1,Revenues1 - Net,Revenue
+Discount Allowed - Name1,Revenues1 - Net,Revenue
+Revenues2 - Net,Revenues,Revenue
+Revenues - Name2,Revenues2 - Net,Revenue
+Returns - Name2,Revenues2 - Net,Revenue
+Discount Allowed - Name2,Revenues2 - Net,Revenue
+Expenses,,
+Cost Of Goods Sold,Expenses,Expense
+Cost Of Goods Sold - Name1,Cost Of Goods Sold,Expense
+Cost Of Goods Sold - Name2,Cost Of Goods Sold,Expense
+Operation Costs,Expenses,Expense
+Staff Costs Factory -Operation,Operation Costs,Expense
+Staff Costs-Operation - Factory Emp. Salary,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp. Overtime,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp. Phones And Communications,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp. Food Allowance,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp. Others Allowance,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp. Bounces Allowance,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp. Commissions,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp. Accommodation Exp.,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp. Trip Allowance,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp. Vacation Salary,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp. Vacation Ticket,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp. Position's Allowance,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp. End Of Service,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp. GOSI Company Approach - Saudi 11.75%,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp. GOSI Company Approach - Non Saudi 2%,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp.  Medical Test Exp,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp. Heath Insurance ,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp. Iqama & Visa Exp,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp. Training & Orientation,Staff Costs Factory -Operation,Expense
+Staff Costs-Operation - Factory Emp. Violations ,Staff Costs Factory -Operation,Expense
+Staff Outsource Costs - Operation,Operation Costs,Expense
+Outsource Costs - Operation - Monthly Charges,Staff Outsource Costs - Operation,Expense
+Outsource Costs - Operation - Commissions,Staff Outsource Costs - Operation,Expense
+Outsource Costs - Operation - Fuel,Staff Outsource Costs - Operation,Expense
+Outsource Costs - Operation - Violations,Staff Outsource Costs - Operation,Expense
+Outsource Costs - Operation - Phone & Communications,Staff Outsource Costs - Operation,Expense
+Outsource Costs - Operation - Others,Staff Outsource Costs - Operation,Expense
+Freelance Costs - Operation,Operation Costs,Expense
+Freelance Costs - Operation - Monthly Charges,Freelance Costs - Operation,Expense
+Freelance Costs - Operation - Commissions Exp,Freelance Costs - Operation,Expense
+Freelance Costs - Operation - Fuel,Freelance Costs - Operation,Expense
+Freelance Costs - Operation - Violations,Freelance Costs - Operation,Expense
+Freelance Costs - Operation - Phone & Communications,Freelance Costs - Operation,Expense
+Freelance Costs - Operation - Others,Freelance Costs - Operation,Expense
+Freelance Costs - Operation - Vehicle Allowance,Freelance Costs - Operation,Expense
+Vehicles Costs - Leased - Operation,Operation Costs,Expense
+Vehicles Costs - Leased - Operation - Lease Monthly Charges ,Vehicles Costs - Leased - Operation,Expense
+Vehicles Costs - Leased - Operation - Fuel,Vehicles Costs - Leased - Operation,Expense
+Vehicles Costs - Leased - Operation - Maintenance,Vehicles Costs - Leased - Operation,Expense
+Vehicles Costs - Leased - Operation - Insurance,Vehicles Costs - Leased - Operation,Expense
+Vehicles Costs - Leased - Operation - Others,Vehicles Costs - Leased - Operation,Expense
+Vehicles Costs - Leased - Operation - Accidents,Vehicles Costs - Leased - Operation,Expense
+Vehicles Costs - Factory Vehicle - Operation,Operation Costs,Expense
+Vehicles Costs - Factory Vehicle - Operation - Lease Monthly Charges ,Vehicles Costs - Factory Vehicle - Operation,Expense
+Vehicles Costs - Factory Vehicle - Operation - Fuel,Vehicles Costs - Factory Vehicle - Operation,Expense
+Vehicles Costs - Factory Vehicle - Operation - Maintenance,Vehicles Costs - Factory Vehicle - Operation,Expense
+Vehicles Costs - Factory Vehicle - Operation - Insurance,Vehicles Costs - Factory Vehicle - Operation,Expense
+Vehicles Costs - Factory Vehicle - Operation - Others,Vehicles Costs - Factory Vehicle - Operation,Expense
+Rent Cost - Operation,Operation Costs,Expense
+Rent Cost - Operation - HW,Rent Cost - Operation,Expense
+Rent Cost - Operation - Equipment,Rent Cost - Operation,Expense
+Maintenance Costs - Operation,Operation Costs,Expense
+Maintenance Costs - Operation - Equipment's,Maintenance Costs – Operation,Expense
+Maintenance Costs - Operation - Facilities,Maintenance Costs - Operation,Expense
+Maintenance Costs - Operation - General,Maintenance Costs - Operation,Expense
+Items Less Than SAR 1000  Costs - Operation,Operation Costs,Expense
+Items Less Than SAR 1000  Costs - Operation - IT WH & SW,Items Less Than SAR 1000  Costs - Operation,Expense
+Items Less Than SAR 1000  Costs - Operation - Tools,Items Less Than SAR 1000  Costs - Operation,Expense
+Items Less Than SAR 1000  Costs - Operation - Others,Items Less Than SAR 1000  Costs - Operation,Expense
+Insurance Costs - Operation,Operation Costs,Expense
+Insurance Costs - Operation - PPE,Insurance Costs - Operation,Expense
+Insurance Costs - Operation - General,Insurance Costs - Operation,Expense
+Depreciations Exp. - Operation,Operation Costs,Expense
+Depreciations Exp. - Operation - Buildings,Depreciations Exp. - Operation,Expense
+Depreciations Exp. - Operation - Lands,Depreciations Exp. - Operation,Expense
+Depreciations Exp. - Operation - Fixtures And Fixtures,Depreciations Exp. - Operation,Expense
+Depreciations Exp. - Operation - Computers,Depreciations Exp. - Operation,Expense
+Depreciations Exp. - Operation - Vehicles,Depreciations Exp. - Operation,Expense
+Depreciations Exp. - Operation - Leasehold,Depreciations Exp. - Operation,Expense
+Depreciations Exp. - Operation - Equipment,Depreciations Exp. - Operation,Expense
+Amortization Exp. - Operation - Office Applications And Software,Depreciations Exp. - Operation,Expense
+Amortization Exp. - Operation - Right Of Use -Buildings,Depreciations Exp. - Operation,Expense
+Amortization Exp. - Operation - Right Of Use -Equip,Depreciations Exp. - Operation,Expense
+Amortization Exp. - Operation - Right Of Use -Vehicles,Depreciations Exp. - Operation,Expense
+Subscription & Licenses Exp. - Operation,Operation Costs,Expense
+Subscription & Licenses Exp. - Operation - WH CR ,Subscription & Licenses Exp. - Operation,Expense
+Subscription & Licenses Exp. - Operation - Subscriptions General,Subscription & Licenses Exp. - Operation,Expense
+Subscription & Licenses Exp. - Operation - Subscriptions IT SW,Subscription & Licenses Exp. - Operation,Expense
+Subscription & Licenses Exp. - Operation - Operation - Licenses,Subscription & Licenses Exp. - Operation,Expense
+Security Services - Operation,Operation Costs,Expense
+Security Services - Operation - Monthly Charges,Security Services - Operation,Expense
+Security Services - Operation - Others,Security Services - Operation,Expense
+Linehaul Cost - Operation,Operation Costs,Expense
+Linehaul Cost - Operation,Linehaul Cost - Operation,Expense
+Distribution Services Costs - Operation,Operation Costs,Expense
+Distribution Services Costs - Operation - Monthly Charges,Distribution Services Costs - Operation,Expense
+Staff Costs - SG&A - Factory Emp.,Operation Costs,Expense
+Staff Costs - SG&A - Factory Emp. - Salary,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - Overtime ,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - Phones And Communications ,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - Food Allowance,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - Others Allowance,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - Bounces Allowance,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - Commissions ,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - Accommodation Exp.,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - Trip Allowance,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - Vacation Salary ,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - Vacation Ticket ,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - Position's Allowance,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - End Of Service ,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - GOSI Company Approach - Saudi 11.75%,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - GOSI Company Approach -Non Saudi 2%,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - Medical Test Exp,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - Heath Insurance ,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - Iqama & Visa Exp,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - Training & Orientation,Staff Costs - SG&A - Factory Emp.,Expense
+Staff Costs - SG&A - Factory Emp. - Violations ,Staff Costs - SG&A - Factory Emp.,Expense
+Vehicles Costs - Leased - SG&A,Operation Costs,Expense
+Vehicles Costs - Leased - SG&A - Monthly Charges ,Vehicles Costs - Leased - SG&A,Expense
+Vehicles Costs - Leased - SG&A - Fuel,Vehicles Costs - Leased - SG&A,Expense
+Vehicles Costs - Leased - SG&A - Maintenance,Vehicles Costs - Leased - SG&A,Expense
+Vehicles Costs - Leased - SG&A - Insurance,Vehicles Costs - Leased - SG&A,Expense
+Vehicles Costs - Leased - SG&A - Others,Vehicles Costs - Leased - SG&A,Expense
+Vehicles Costs - SG&A - Factory Vehicle,Operation Costs,Expense
+Vehicles Costs - SG&A - Factory Vehicle - Fuel,Vehicles Costs - SG&A - Factory Vehicle,Expense
+Vehicles Costs - SG&A - Factory Vehicle - Maintenance,Vehicles Costs - SG&A - Factory Vehicle,Expense
+Vehicles Costs - SG&A - Factory Vehicle - Insurance,Vehicles Costs - SG&A - Factory Vehicle,Expense
+Vehicles Costs - SG&A - Factory Vehicle - Others,Vehicles Costs - SG&A - Factory Vehicle,Expense
+Rent Cost - SG&A,Operation Costs,Expense
+Rent Cost - SG&A - Office,Rent Cost - SG&A,Expense
+Rent Cost - SG&A - Other Rents ,Rent Cost - SG&A,Expense
+Maintenance Costs - SG&A,Operation Costs,Expense
+Maintenance Costs - SG&A - Equipment's,Maintenance Costs - SG&A,Expense
+Maintenance Costs - SG&A - Facilities,Maintenance Costs - SG&A,Expense
+Maintenance Costs - SG&A - General,Maintenance Costs - SG&A,Expense
+ Items Less Than Sar 1000  Costs - SG&A,Operation Costs,Expense
+ Items Less Than Sar 1000  Costs - SG&A - IT WH&SW, Items Less Than Sar 1000  Costs - SG&A,Expense
+ Items Less Than Sar 1000  Costs - SG&A - Tools, Items Less Than Sar 1000  Costs - SG&A,Expense
+ Items Less Than Sar 1000  Costs - SG&A - Others, Items Less Than Sar 1000  Costs - SG&A,Expense
+Insurance Costs - SG&A,Operation Costs,Expense
+Insurance Costs - SG&A - PPE,Insurance Costs - SG&A,Expense
+Insurance Costs - SG&A - General,Insurance Costs - SG&A,Expense
+Depreciations Exp. SG&A,Operation Costs,Expense
+Depreciations Exp. - SG&A - Buildings,Depreciations Exp. SG&A,Expense
+Depreciations Exp. - SG&A - Lands,Depreciations Exp. SG&A,Expense
+Depreciations Exp. - SG&A - Fixtures And Fixtures,Depreciations Exp. SG&A,Expense
+Depreciations Exp. - SG&A - Computers,Depreciations Exp. SG&A,Expense
+Depreciations Exp. - SG&A - Vehicles,Depreciations Exp. SG&A,Expense
+Depreciations Exp. - SG&A - Leasehold,Depreciations Exp. SG&A,Expense
+Depreciations Exp. - SG&A - Equipment,Depreciations Exp. SG&A,Expense
+Amortization Exp. - SG&A - Office Applications And Software,Depreciations Exp. SG&A,Expense
+Amortization Exp. - SG&A - Right Of Use -Buildings,Depreciations Exp. SG&A,Expense
+Amortization Exp. - SG&A - Right Of Use -Equip,Depreciations Exp. SG&A,Expense
+Amortization Exp. - SG&A - Right Of Use -Vehicles,Depreciations Exp. SG&A,Expense
+Prof Fees - SG&A,Operation Costs,Expense
+Prof Fees - SG&A - Legal Service,Prof Fees - SG&A,Expense
+Prof Fees - SG&A - Audit Service,Prof Fees - SG&A,Expense
+Prof Fees - SG&A - Consultation ,Prof Fees - SG&A,Expense
+Prof Fees - SG&A - Zakat& Tax Service,Prof Fees - SG&A,Expense
+Prof Fees - SG&A - Directors Services,Prof Fees - SG&A,Expense
+Prof Fees - SG&A - Others Prof Service,Prof Fees - SG&A,Expense
+Communications Exp. - SG&A,Operation Costs,Expense
+Communications Exp. - SG&A - Telephone,Communications Exp. - SG&A,Expense
+Communications Exp. - SG&A - Mobile,Communications Exp. - SG&A,Expense
+Communications Exp. - SG&A - Internet,Communications Exp. - SG&A,Expense
+Postage Exp. - SG&A,Operation Costs,Expense
+Postage Exp. - SG&A - Saudi Post,Postage Exp. - SG&A,Expense
+Postage Exp. - SG&A - Couriers,Postage Exp. - SG&A,Expense
+Stationaries Exp. - SG&A,Operation Costs,Expense
+Stationaries Exp. - SG&A - General,Stationaries Exp. - SG&A,Expense
+Stationaries Exp. - SG&A - Printers Ink,Stationaries Exp. - SG&A,Expense
+Travel Exp. - SG&A,Operation Costs,Expense
+Travel Exp. - SG&A - Ticket For Business Trip,Travel Exp. - SG&A,Expense
+Travel Exp. - SG&A - Per dim,Travel Exp. - SG&A,Expense
+Travel Exp. - SG&A - Accommodations,Travel Exp. - SG&A,Expense
+Travel Exp. - SG&A - Transportation,Travel Exp. - SG&A,Expense
+Travel Exp. - SG&A - Other Travel Costs,Travel Exp. - SG&A,Expense
+Hospitality Exp. - SG&A,Operation Costs,Expense
+Hospitality Exp. - SG&A - Meetings,Hospitality Exp. - SG&A,Expense
+Hospitality Exp. - SG&A - Refreshments,Hospitality Exp. - SG&A,Expense
+Hospitality Exp. - SG&A - Staff Gathering,Hospitality Exp. - SG&A,Expense
+Utilities Exp.- SG&A,Operation Costs,Expense
+Utilities Exp.- SG&A - Water,Utilities Exp.- SG&A,Expense
+Utilities Exp.- SG&A - Electricity,Utilities Exp.- SG&A,Expense
+Marketing Exp.- SG&A,Operation Costs,Expense
+Marketing Exp.- SG&A - Advertising / Promotions ,Marketing Exp.- SG&A,Expense
+Marketing Exp.- SG&A - Seminars' /Sponsorships',Marketing Exp.- SG&A,Expense
+Marketing Exp.- SG&A - Gifts/Souvenirs /Brochure,Marketing Exp.- SG&A,Expense
+Subscription & Licenses Exp. - SG&A,Operation Costs,Expense
+Subscription & Licenses Exp. - SG&A - CR,Subscription & Licenses Exp. - SG&A,Expense
+Subscription & Licenses Exp. - SG&A - Subscriptions General,Subscription & Licenses Exp. - SG&A,Expense
+Subscription & Licenses Exp. - SG&A - Subscriptions IT SW,Subscription & Licenses Exp. - SG&A,Expense
+Subscription & Licenses Exp. - SG&A - Tenders ,Subscription & Licenses Exp. - SG&A,Expense
+Subscription & Licenses Exp. - SG&A - Stamping,Subscription & Licenses Exp. - SG&A,Expense
+Bad Debts Exp. - SG&A,Operation Costs,Expense
+Bad Debts Exp. - SG&A - Bad Debts,Bad Debts Exp. - SG&A,Expense
+Bad Debts Exp. - SG&A - Doubtful Debts,Bad Debts Exp. - SG&A,Expense
+Other Exp. - SG&A,Operation Costs,Expense
+Other Exp. - SG&A - Donations,Other Exp. - SG&A,Expense
+Other Exp. - SG&A - Relocation,Other Exp. - SG&A,Expense
+Other Exp. - SG&A - Sundry,Other Exp. - SG&A,Expense
+Other Exp. - SG&A - Realized,Other Exp. - SG&A,Expense
+Other Exp. - SG&A- Un Realized,Other Exp. - SG&A,Expense
+Bank Charges Exp. - SG&A,Operation Costs,Expense
+Bank Charges Exp. - SG&A - Bank Commission Remittance,Bank Charges Exp. - SG&A,Expense
+Bank Charges Exp. - SG&A - Bank Commission BG,Bank Charges Exp. - SG&A,Expense
+Bank Charges Exp. - SG&A - Interest And Zakat& Tax,Bank Charges Exp. - SG&A,Expense
+Interest Exp. - SG&A,Operation Costs,Expense
+Interest Exp. - SG&A - Loan1,Interest Exp. - SG&A,Expense
+Interest Exp. - SG&A - Loan2,Interest Exp. - SG&A,Expense
+Zakat & Tax Exp. - SG&A,Operation Costs,Expense
+Zakat & Tax Exp. - SG&A - Zakat,Zakat & Tax Exp. - SG&A,Expense
+Zakat & Tax Exp. - SG&A - Tax,Zakat & Tax Exp. - SG&A,Expense
+Zakat & Tax Exp. - SG&A - Deferred Tax,Zakat & Tax Exp. - SG&A,Expense
+Zakat & Tax Exp. - SG&A - SG&A - WHT,Zakat & Tax Exp. - SG&A,Expense
+Other Expenses,Revenues,Expense
+Previous Year Exp.,Other Expenses,Expense
+Other On Operational Exp.,Other Expenses,Expense
+Other Revenues,Revenues,Expense
+Assets Gain/Loss,Other Revenues,Revenue
+Other Non Operational Revenues,Other Revenues,Revenue
