@@ -21,7 +21,7 @@ def read_acc22():
 				#par=None
 				#index+=1
 				print (row[1])
-				print (row[1][0])
+				print (row[1])
 				print ("**********")
 				if(row[2]=="Asset"):
 					root_type="Asset"
