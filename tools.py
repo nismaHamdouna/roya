@@ -20,9 +20,9 @@ def read_acc22():
 				root_type=""
 				#par=None
 				#index+=1
-				print row[1]
-				print row[1][0]
-				print "**********"
+				print (row[1])
+				print (row[1][0])
+				print ("**********")
 				if(row[2]=="Asset"):
 					root_type="Asset"
 				if(row[2]=="Liability"):
@@ -34,8 +34,8 @@ def read_acc22():
 				if(row[2]=="Expense"):
 					root_type="Expense"
 				#print row[0][0]
-				print root_type
-				print index
+				print (root_type)
+				print (index)
 				index +=1
 				exi=frappe.get_all("Account" , ['name'],filters={"account_name":(row[0].strip()).decode('utf-8'),"company":"مصنع رويا للمنتجات الغذائية"})
 				if exi:
@@ -45,7 +45,7 @@ def read_acc22():
 				
 				parent=frappe.get_all("Account" , ['name'],filters={"account_name":(row[1].strip()).decode('utf-8'),"company":"مصنع رويا للمنتجات الغذائية"})
 				if parent:
-					print parent[0].name
+					print (parent[0].name)
 					parent_account = parent[0].name
 				dd = frappe.get_doc({"doctype":"Account",
 						"account_name":(row[0].strip()).decode('utf-8'),
