@@ -37,18 +37,18 @@ def read_acc22():
 				print (root_type)
 				print (index)
 				index +=1
-				exi=frappe.get_all("Account" , ['name'],filters={"account_name":(row[0].strip()).decode('utf-8'),"company":"مصنع رويا للمنتجات الغذائية"})
+				exi=frappe.get_all("Account" , ['name'],filters={"account_name":(row[0].strip()),"company":"مصنع رويا للمنتجات الغذائية"})
 				if exi:
 					print("Exi")
 					continue
 
 				
-				parent=frappe.get_all("Account" , ['name'],filters={"account_name":(row[1].strip()).decode('utf-8'),"company":"مصنع رويا للمنتجات الغذائية"})
+				parent=frappe.get_all("Account" , ['name'],filters={"account_name":(row[1].strip()),"company":"مصنع رويا للمنتجات الغذائية"})
 				if parent:
 					print (parent[0].name)
 					parent_account = parent[0].name
 				dd = frappe.get_doc({"doctype":"Account",
-						"account_name":(row[0].strip()).decode('utf-8'),
+						"account_name":(row[0].strip()),
 						 "is_group ":  0,
 						 "account_serial" : 0,
 						 "root_type": root_type,
