@@ -27,7 +27,7 @@ def read_acc22():
 					root_type="Asset"
 				if(row[2]=="Liability"):
 					root_type="Liability"
-				if(row[2]=="Owner's Equity"):
+				if(row[2]=="Owners Equity"):
 					root_type="Equity"
 				if(row[2]=="Revenue"):
 					root_type="Income"
