@@ -14,7 +14,7 @@ def read_acc22():
 		spamreader = csv.reader(csvfile)
 		index=0
 		for row in spamreader:
-			if row[1]:
+			if row[0]:
 				parent_account=None
 				#is_group = 0
 				root_type=""
